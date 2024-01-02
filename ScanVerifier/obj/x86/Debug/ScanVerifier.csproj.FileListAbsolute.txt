@@ -1,0 +1,9 @@
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\bin\Debug\ScanVerifier.exe.config
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\bin\Debug\ScanVerifier.exe
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\bin\Debug\ScanVerifier.pdb
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\bin\Debug\Common.dll
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\bin\Debug\DocumentFormat.OpenXml.dll
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\bin\Debug\Common.pdb
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\obj\x86\Debug\ScanVerifier.exe
+C:\ASL\CS-2010\ScanVerifier\ScanVerifier\obj\x86\Debug\ScanVerifier.pdb

@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[ScanVerifier.csproj]
+SCC_Aux_Path = "\\sourcesafe\VSS2009"
+SCC_Project_Name = "$/CS-2010/ScanVerifier.root/ScanVerifier", QNVAAAAA
+
+[ScanVerifier.sln]
+SCC_Aux_Path = "\\sourcesafe\VSS2009"
+SCC_Project_Name = "$/CS-2010/ScanVerifier.root/ScanVerifier", QNVAAAAA
